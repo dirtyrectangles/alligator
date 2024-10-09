@@ -1,1 +1,1 @@
-# aligator
+# alligator
